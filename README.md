@@ -14,4 +14,4 @@ Aunque este es un ejemplo sencillo y tal vez no sea uno en el que se pueda aprec
 NOTAS ADICIONALES:
  - Para usar programación paralela, se pueden usar lenguajes como C, C++, Java (aunque no es del todo paralelizable) y python.
  - Para trabajar este tipo de programación se pueden usar IDE's en los que se pueda instalar OpenMP (Code Blocks) o se puede usar alguna distribucion de linux (Ubuntu) aunque hay    que instalar OpenMP.
- - En caso de trabajar con una distribucion de linux, el comando de compilacion (al menos en el caso de C y C++) es distinto que el secuencial. Posteriormente se abordara esté        tema en otro repositorio.
+ - En caso de trabajar con una distribucion de linux, el comando de compilacion (al menos en el caso de C) es distinto que el secuencial.
