@@ -2,4 +2,4 @@ Comandos para Linux
 
     Compilar: gcc -fopenmp nombrePrograma.c -o nombrePrograma
 
-    Ejecturar: ./nombrePrograma
+    Ejecturar: ./nombreProgramad
