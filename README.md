@@ -2,6 +2,7 @@
 Primera parte de algunos programas para explicar la programación paralela en lenguaje C
 
 DEFINICIÓN
+
   La programación paralela consiste en poder realizar una tarea (o programa) dividiendolo en 'n' partes (o sub-tareas) que se ejecutaran al mismo tiempo, la cantidad de sub-tareas   que se ejcutaran dependera de la cantidad de hilos con los que cuente el equipo en el que se este ejecutando el programa. Hay que considerar que no todos los programas pueden     ser paralelizados y los que se puedan paralelizar no son mejores (en cuestion de tiempo) a la versión secuencial o su dificultad para poder hacerlos es bastante alta.
 
 Hilos: secuencia de instruciones en ejecucion
